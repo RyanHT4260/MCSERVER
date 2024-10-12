@@ -1,622 +1,394 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728692231304 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728695428758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692234387 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695431821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692237463 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695434890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692240558 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695437965 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692243650 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695441078 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692246766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695444149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692249839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695447212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692254506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695450282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692257584 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695453374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692260661 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695456438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692263731 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695459514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692266806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695462577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692269865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695465646 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692272948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695468771 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692276015 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695471837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692279076 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695474938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692282144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695477999 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692285270 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695481109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692288332 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695484186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692291391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695487254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692294459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695490320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692297521 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695494906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692300588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695497980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692303651 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695501046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692306716 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695504123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692309780 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695507230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692312846 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695510299 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692315925 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695513374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692318995 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695516436 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692322060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695519525 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692325124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695522591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692328187 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695525663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692331258 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695528739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692334318 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695531810 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692337383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695534884 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692340446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695537950 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692343506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695541021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692346574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695544325 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692349643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695547625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692352710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695550743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692355778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695553811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692358849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695556871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692361918 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695559939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692364987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695563027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692368059 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695566115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692371127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695569193 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692374192 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695572349 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692377256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695575432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692380332 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695578504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692383513 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695581616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692386719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695584693 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692389795 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695587788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692392906 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695590849 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692395978 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695593933 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692399047 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695597612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692402138 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695600694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692405209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695603773 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692408281 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695606841 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692411368 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695609900 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692414448 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695612963 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692417557 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695616025 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692420658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695620641 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692423726 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695623702 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692426792 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695626770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692429860 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695629849 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692432933 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692435998 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692439066 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692442128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692445245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692448316 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692451375 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692454435 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692457502 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692460570 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692463646 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692466830 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692469917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692473008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692476108 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692479173 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692482234 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692485292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692488349 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692491412 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692494478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692497543 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692500607 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692503671 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692506742 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692509808 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692512897 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692515959 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692519023 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692522123 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692525189 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692530446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692533512 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692536587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692539654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692542759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692545825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692548920 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1728692552074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728695632910 tunnel running, 2 tunnels registered
 
 
 TUNNELS
