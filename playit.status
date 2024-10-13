@@ -2680,3 +2680,66 @@ primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
 TUNNELS
 court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728783557733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728783560816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728783575921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728783578990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728783582617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728783597771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728783600834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728783606106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1728783609731 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+court-yeast.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+primary-pound.gl.at.ply.gg:4413 => 127.0.0.1:4413 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
